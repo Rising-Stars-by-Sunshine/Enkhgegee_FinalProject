@@ -21,7 +21,8 @@ This project has been a transformative learning experience, allowing us to apply
 
 
 ### Project Poster
-![Project Poster](path/to/poster.png)
+![Uploading image.png…]()
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
