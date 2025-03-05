@@ -37,27 +37,25 @@ This repository is organized as follows:
 
 ### Code
 - **`code/`**: Contains all Python scripts and Jupyter notebooks for data analysis, model development, and visualization.
-  - `data_preprocessing.ipynb`: Script for cleaning and preprocessing the dataset.
-  - `model_training.ipynb`: Script for training and evaluating machine learning models.
-  - `visualizations.ipynb`: Script for generating visualizations and insights.
+  - `Stats201_FinalProject.ipynb`: Main notebook for data preprocessing, model training, and visualization.
+  - `data_cleaning.ipynb`: Script for cleaning and preprocessing the dataset (if applicable).
+  - `model_training.ipynb`: Script for training and evaluating machine learning models (if applicable).
 
 ### Data
 - **`data/`**: Contains raw and processed datasets.
-  - `education_career_success.csv`: Primary dataset for the analysis.
-  - `world_university_rankings.csv`: Supplementary dataset for university rankings.
-  - `README_data.md`: Documentation for the datasets, including a data dictionary.
+  - `Job_Placement_Data.csv`: Dataset for job placement analysis.
+  - `education_expenditure_supplementary_data.csv`: Supplementary dataset for education expenditure.
+  - `README.md`: Documentation for the datasets, including a data dictionary.
 
-### Visualizations
-- **`visualizations/`**: Contains all visual outputs (e.g., plots, charts).
-  - `correlation_heatmap.png`: Heatmap showing correlations between variables.
-  - `shap_summary_plot.png`: SHAP summary plot for feature importance.
+### Visualization
+- **`visualization/`**: Contains all visual outputs (e.g., plots, charts).
+  - `heatmap.png`: Heatmap showing correlations between variables.
+  - `shap_plot.png`: SHAP summary plot for feature importance.
   - `rdd_plot.png`: Regression discontinuity design (RDD) plot.
 
 ### Documentation
 - **`docs/`**: Contains supplementary documentation.
-  - `research_report.pdf`: Final academic research report.
-  - `presentation_slides.pdf`: Slides used for the project presentation.
-
+  - `Stats201_FinalProject_Enkhgegee Altangerel.docx`: Final academic research report.
 ### Dependencies
 - **`requirements.txt`**: Lists all Python libraries and their versions required to run the code.
 
