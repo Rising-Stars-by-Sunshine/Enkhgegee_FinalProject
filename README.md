@@ -80,6 +80,4 @@ This repository is organized as follows:
 
 ## Contact
 For questions or feedback, please contact:
-- **Enkhgegee Altangerel**: [email@example.com](mailto:email@example.com)
-- **[Team Member 2]**: [email@example.com](mailto:email@example.com)
-- **[Team Member 3]**: [email@example.com](mailto:email@example.com)
+- **Enkhgegee Altangerel**: [ea202@duke.edu]
