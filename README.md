@@ -21,7 +21,7 @@ This project has been a transformative learning experience, allowing us to apply
 
 
 ### Project Poster
-[https://github.com/Rising-Stars-by-Sunshine/Enkhgegee_FinalProject/blob/main/visualization/STATS201_FinalProjectPoster.png]
+![Poster](https://github.com/Rising-Stars-by-Sunshine/Enkhgegee_FinalProject/blob/main/visualization/STATS201_FinalProjectPoster.png)
 
 
 ## Table of Contents
